@@ -1,12 +1,14 @@
-ebook_metadata:
+id: P000065
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །བསྟན་འགྲོ་ཡོངས་ལ་ཕན་པའི་ཨོ་རྒྱན་སྤྲུལ་པའི་གླེགས་བམ་བཞུགས་སོ། །
   authors:
   - མཛད་པ་པོ། ཞབས་དཀར་ཚོགས་དྲུག་རང་གྲོལ།
-  sku: SHE-SHAP-10
   layers:
   - book_title
   - author
   - quotation
+  id: SHE-SHAP-10
 web_metadata:
   title:
     en: The Book of Emanated Scriptures of Orgyen
